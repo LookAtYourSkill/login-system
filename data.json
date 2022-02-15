@@ -1,0 +1,23 @@
+{
+    "texts":{
+        "what.message": "Was möchtest du machen: ",
+        "username.message": "Gebe einen neuen Nutzernamen ein: ",
+        "password.message": "Bitte gebe nun ein Passwort für dein Account an: ",
+        "login.message": "\nDu hast bereits ein Account? \n ->Schreibe einfach \"Ja\" \n\nFalls du noch keinen haben solltest \n ->Schreibe einfach \"Nein\" \n\nDeine Antwort: ",
+        "5sec.message": "Das Programm beendet sich in 5 Sekunden!",
+        "register.successful.message": "Account wurde erfolgreich registriert!",
+        "error.password.message": "Du konntest nicht angemeldet werden! Anscheinend war dein Passwort falsch!",
+        "error.username_not_found.message": "Der Nutzername konnte nicht gefunden werden! Bitte überprüfe die Schreibweise",
+        "error.json.message": "Raised TypeError: Object of type bytes is not JSON serializable",
+        "error.encode.message": "Raised TypeError: Unicode-objects must be encoded before checking",
+        "error.salt.message": "Raised ValuError: Invalid salt",
+        "error.ascii.message": "Bitte verwende erlaubte Zeichen!"
+    },
+    "perms": {
+        "user.permission": "user",
+        "admin.permission": "admin"
+    },
+    "admin_perms": {
+        "universal_password": "root"
+    }
+}
