@@ -1,9 +1,3 @@
-.idea/discord.xml
-.idea/Login System.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/inspectionProfiles/Project_Default.xml
-__pycache__/utils.cpython-39.pyc
-.idea/.gitignore
-.idea/vcs.xml
+.idea/*
+__pycache__/*
+accounts.json
