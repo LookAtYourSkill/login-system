@@ -13,9 +13,9 @@ def run():
 
     print(dedent(
         """
-        <#################################################################>
-        <##>Welcome to the Simply Login System coded by LookAtYourSkill<##>
-        <#################################################################>
+        <###########################################################>
+        <##>Welcome to the Simply Login System by LookAtYourSkill<##>
+        <###########################################################>
         Was möchtest du machen:
             -> login
             -> register
