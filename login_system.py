@@ -4,7 +4,6 @@ from textwrap import dedent
 import time
 
 from utils import get_hashed_password, check_password
-# TODO: IP Check einführen, dass man nur noch 1 Account pro IP haben kann
 
 
 def run():
