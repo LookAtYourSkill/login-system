@@ -4,7 +4,6 @@ from textwrap import dedent
 import time
 
 from utils import get_hashed_password, check_password
-# TODO: IP Check einführen, dass man nur noch 1 Account pro IP haben kann
 
 
 def run():
@@ -13,9 +12,9 @@ def run():
 
     print(dedent(
         """
-        <#################################################################>
-        <##>Welcome to the Simply Login System coded by LookAtYourSkill<##>
-        <#################################################################>
+        <###########################################################>
+        <##>Welcome to the Simple Login System by LookAtYourSkill<##>
+        <###########################################################>
         Was möchtest du machen:
             -> login
             -> register
