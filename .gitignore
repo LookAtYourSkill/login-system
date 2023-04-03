@@ -2,3 +2,4 @@
 __pycache__/*
 accounts.json
 data.json
+config.json
