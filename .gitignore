@@ -1,5 +1,5 @@
-.idea/*
-__pycache__/*
+.idea
+__pycache__
 accounts.json
 data.json
 config.json
